@@ -1,0 +1,13 @@
+{
+  "name": "streaming-app",
+  "version": "1.0.0",
+  "description": "A streaming app that perform many activities",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  }
+}
